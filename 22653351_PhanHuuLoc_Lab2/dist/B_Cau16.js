@@ -13,5 +13,4 @@ async function runParallel() {
     ]);
     console.log("16: Results =", results);
 }
-// Test
 runParallel();
